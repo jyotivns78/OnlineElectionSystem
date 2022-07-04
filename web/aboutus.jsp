@@ -1,8 +1,4 @@
-<%-- 
-    Document   : aboutus
-    Created on : 18 Feb, 2019, 10:18:20 PM
-    Author     : Yogesh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
