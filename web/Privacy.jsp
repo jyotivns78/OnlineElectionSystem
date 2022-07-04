@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Privacy
-    Created on : 11 Apr, 2019, 3:27:10 PM
-    Author     : Yogesh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
