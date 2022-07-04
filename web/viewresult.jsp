@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 1 Feb, 2019, 10:33:09 AM
-    Author     : Yogesh
---%>
+
 <%@page import="java.sql.ResultSet"%>
 <%@page import="mypackage.Dbmanager"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
