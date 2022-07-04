@@ -1,8 +1,4 @@
-<%-- 
-    Document   : profile
-    Created on : 31 Mar, 2019, 9:48:51 PM
-    Author     : Yogesh
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="mypackage.Dbmanager"%>
