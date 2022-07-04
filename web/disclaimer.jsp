@@ -1,8 +1,3 @@
-<%-- 
-    Document   : disclaimer
-    Created on : 11 Apr, 2019, 2:52:51 PM
-    Author     : Yogesh
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
