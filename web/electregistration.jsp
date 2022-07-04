@@ -1,13 +1,4 @@
-<%-- 
-    Document   : registration
-    Created on : 7 Mar, 2019, 1:33:15 PM
-    Author     : Yogesh
---%>
-<%-- 
-    Document   : registration
-    Created on : 7 Mar, 2019, 1:33:15 PM
-    Author     : Yogesh
---%>
+
 <%@page import="mypackage.CaptchaGenerator"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
