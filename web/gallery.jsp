@@ -1,8 +1,4 @@
-<%-- 
-    Document   : gallery
-    Created on : 7 Mar, 2019, 1:33:34 PM
-    Author     : Yogesh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
