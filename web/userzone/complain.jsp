@@ -1,8 +1,4 @@
-<%-- 
-    Document   : dashboard1
-    Created on : 31 Mar, 2019, 9:41:40 PM
-    Author     : Yogesh
---%>
+
 <%
 if(session.getAttribute("userid")==null)
 {
