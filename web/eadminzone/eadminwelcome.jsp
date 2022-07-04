@@ -1,8 +1,4 @@
-<%-- 
-    Document   : dashboard2
-    Created on : 8 Apr, 2019, 2:53:56 PM
-    Author     : Yogesh
---%>
+
 <%
   if(session.getAttribute("aid")==null)
   {
