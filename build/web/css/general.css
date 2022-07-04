@@ -1,0 +1,275 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 Jul, 2018, 5:47:32 PM
+    Author     : Yogesh
+*/
+ .outer{
+           
+            background-color:black;
+        }
+         .t{
+                min-height: 45px;
+                background:rgb(180,180,180);
+                color: white;
+                text-align :center;
+                font-size: 25px;
+                font-family:arial;
+                padding-top:.2%;
+             
+            }
+            .t a
+            {
+                color:white;
+            }
+           
+            .logo
+            {
+               min-height: 100px; 
+            }
+        #menu
+            {
+                border-radius: 0px 0px 0px 100px;
+              
+                background:black;
+                border: none;
+                box-shadow: none;
+                padding-top:1px;
+               
+                font-size: 20px;
+                margin-top:.1%;
+               
+            }
+            
+           
+            #menu ul li:hover
+             {
+                
+                background:grey;
+                transition: all ease 1s;
+            }
+            #menu ul li a:hover
+            {
+               
+                color:white;
+               font-size: 20px;
+            }
+             .slider
+            {
+                min-height:100px;
+
+            }
+ .gallery
+{
+min-height:300px;
+background:white;
+}
+.gallery2
+{
+min-height:300px;
+background:#dbcdc1;
+
+}
+.gallery1
+{
+min-height:360px;
+background:#f0f0f0;
+color:black;
+font-family:rockwell;
+font-size:16px;
+border: 5px solid white;
+border-right: none;
+}
+.Notification
+{
+    
+    min-height: 360px;
+   border: 5px solid white;
+   background-color: #e7e6e7;
+    
+    
+    
+
+}
+
+.top{
+min-height:100px;
+background:grey;
+}
+.ram
+{
+min-height:270px;
+background:#e1e1e1;
+margin-top:2%;
+margin-left:18%;
+border-radius:50%;
+border:1px solid gray;
+}
+.ram1
+{
+min-height:270px;
+background:#777;
+margin-top:50px;
+padding-right:4%; 
+}
+.us{
+    background:#e2e8eb;;
+}
+.upper{
+    min-height: 20px;
+    background: #e2e8eb;;
+}
+
+          .team{
+               min-height: 450px;
+               background:#cdcdcd;
+           }
+.slideshow
+{
+margin:0 auto;
+padding-top:8px;
+height:530px;
+background:#cdcdcd;
+box-sizing:border-box;
+}
+.content{
+margin:auto;
+width:200px;
+perspective:1000px;
+position:relative;
+padding-top:30px;
+}
+.content-carrousel{
+width:100%;
+position:absolute;
+float:right;
+animation:rotar 15s infinite linear;
+transform-style:preserve-3d;
+}
+.content-carrousel:hover
+{
+animation-play-state:paused;
+cursor:pointer;
+}
+.content-carrousel figure{
+width:200px;
+height:280px;
+border:1px solid #4d444d;
+overflow:hidden;
+position:absolute;
+}
+.content-carrousel figure:nth-child(1){
+transform:rotateY(0deg) translateZ(300px);
+}
+.content-carrousel figure:nth-child(2){
+transform:rotateY(40deg) translateZ(300px);
+}
+.content-carrousel figure:nth-child(3){
+transform:rotateY(80deg) translateZ(300px);
+}
+.content-carrousel figure:nth-child(4){
+transform:rotateY(120deg) translateZ(300px);
+}
+.content-carrousel figure:nth-child(5){
+transform:rotateY(160deg) translateZ(300px);
+}
+.content-carrousel figure:nth-child(6){
+transform:rotateY(200deg) translateZ(300px);
+}
+.content-carrousel figure:nth-child(7){
+transform:rotateY(240deg) translateZ(300px);
+}
+.content-carrousel figure:nth-child(8){
+transform:rotateY(280deg) translateZ(300px);
+}
+.content-carrousel figure:nth-child(9){
+transform:rotateY(320deg) translateZ(300px);
+}
+.shadow{
+position:absolute;
+box-shadow:0px 0px 20px 0px #000;
+border-radius:5px;
+}
+.content-carrousel img{
+image-rendering:auto;
+transition:all 300ms;
+width:300px;
+height:100%;}
+.content-carrousel img:hover{
+transform:scale(1.2);
+transition:all 300ms;}
+@keyframes rotar{
+from{
+transform:rotateY(0deg);
+}
+to{
+transform:rotateY(360deg);
+}} 
+
+
+ .ufooter
+            {
+                min-height: 140px;
+                background:black;
+            }
+             .uf
+            {
+                min-height: 270px;
+                background:black;
+                margin: 0px;
+                padding: 0px;
+                padding-top: 30px;
+                margin-top: 7%;
+                margin-bottom: 7%;
+                padding-left: 4%;
+                font-size: 20px;
+                color:white;
+              border-right:3px solid white;
+              border-left:none;
+              border-top:none;
+               border-bottom:none;
+            }
+            .uf ul li a{
+                color:white;
+                text-align: center;
+             
+                font-size: 19px;
+                text-decoration:none;
+            }
+              .bfooter
+            {
+                min-height: 40px;
+                background:#cdcdcd;
+              
+                font-size: 18px;
+                padding-top:1%;
+            }  
+             
+            .abc{
+            border:5px solid white;
+            font-size: 35px;
+            border-radius:50%;
+            padding-left:1%;
+            padding-top:4%;
+            padding-bottom:4%;
+            padding-right:2%;
+             margin-top: 3%;
+            width:65px;
+            text-align: center;
+            margin-left: 3%;
+            color:white;
+              text-decoration:none;
+            }
+            #loader
+            { 
+                position:fixed;
+                width: 100%;
+                height:100%;
+                background: #fff url("../images/loader.gif")
+                    no-repeat center;
+                z-index:99999;
+                
+            }

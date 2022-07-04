@@ -1,0 +1,22 @@
+SMAP
+viewresult_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewresult.jsp
+viewresult.jsp
++ 1 link.jsp
+MasterPage/link.jsp
++ 2 header1.jsp
+MasterPage/header1.jsp
++ 3 footer1.jsp
+MasterPage/footer1.jsp
+*L
+5,10:53
+5#1,15:63
+14#0,10:78
+5#2,83:88
+23#0,5:170
+5#3,52:175
+27#0,7:226
+*E

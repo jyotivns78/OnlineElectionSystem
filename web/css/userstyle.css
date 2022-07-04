@@ -1,0 +1,42 @@
+.u_info
+{
+    min-height:50px;
+    background-color:gray;
+    color:black;
+    float:left;
+  margin-left:10px;
+  border-radius: 10px;
+  
+  box-shadow: 5px 10px 5px black;
+}
+.u_date
+{
+    margin-left:10px;
+    min-height:30px;
+    background-color: lightgray;
+    color:black;
+    float:left;
+    margin-top:10px;
+  font-family: rockwell;
+  font-size: 22px;
+  text-align:center;
+  border-radius:10px;
+}
+.u_name
+{
+    border-radius:10px;
+    margin-left:10px;
+   font-family: rockwell;
+    font-size: 25px;
+    text-align:center;
+    margin-top:10px ;
+    width:100px;
+background-color:lightgray;
+    color:black;
+    float:left;
+       
+}
+.u_container
+{
+    min-height:500px;
+}
