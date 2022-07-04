@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ouerteam
-    Created on : Apr 14, 2019, 4:19:13 PM
-    Author     : User
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
